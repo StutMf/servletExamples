@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="replacer-app">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/replacer-app.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
